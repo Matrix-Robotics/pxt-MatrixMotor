@@ -1,0 +1,6 @@
+{
+  "MxMotor.init": "start up the motor extension",
+  "MxMotor.readVbat": "read voltage of motor extension",
+  "MxMotor.setPWM": "set Motor speed",
+  "MxMotor.setPWM|param|ch": "[1-4] select the channel of Motor; eg: 1, 4"
+}

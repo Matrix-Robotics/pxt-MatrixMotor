@@ -1,0 +1,7 @@
+{
+  "MxMotor.init|block": "start up the motor extension",
+  "MxMotor.readVbat|block": "read voltage of motor extension",
+  "MxMotor.setPWM|block": "set %ch Motor to %speed",
+  "MxMotor|block": "MxMotor",
+  "{id:category}MxMotor": "MxMotor"
+}
