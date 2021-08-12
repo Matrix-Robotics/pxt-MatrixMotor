@@ -1,0 +1,21 @@
+{
+    "name": "MatrixMotor",
+    "version": "1.0.0",
+    "description": "The extension for MATRIX Motor Extension",
+    "license": "MIT",
+    "dependencies": {
+        "core": "*"
+    },
+    "files": [
+        "README.md",
+        "MxMotor.ts"
+    ],
+    "testFiles": [
+        "test.ts"
+    ],
+    "public": true,
+    "supportedTargets": [
+        "microbit"
+    ],
+    "preferredEditor": "tsprj"
+}
