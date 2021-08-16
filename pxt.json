@@ -8,7 +8,9 @@
     },
     "files": [
         "README.md",
-        "MxMotor.ts"
+        "MxMotor.ts",
+        "_locales/zh-tw/MatrixMicro-jsdoc-strings.json",
+        "_locales/zh-tw/MatrixMicro-strings.json"
     ],
     "testFiles": [
         "test.ts"
