@@ -1,6 +1,6 @@
 {
-  "MxMotor.init": "start up the motor extension",
-  "MxMotor.readVbat": "read voltage of motor extension",
-  "MxMotor.setPWM": "set Motor speed",
-  "MxMotor.setPWM|param|ch": "[1-4] select the channel of Motor; eg: 1, 4"
+  "MxMotor.init": "啟動馬達擴充模組",
+  "MxMotor.readVbat": "讀取擴充模組電池電壓",
+  "MxMotor.setPWM": "設定馬達速度",
+  "MxMotor.setPWM|param|ch": "[1-4] 選擇馬達頻道; eg: 1, 4"
 }

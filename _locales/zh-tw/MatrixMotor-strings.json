@@ -1,7 +1,7 @@
 {
-  "MxMotor.init|block": "start up the motor extension",
-  "MxMotor.readVbat|block": "read voltage of motor extension",
-  "MxMotor.setPWM|block": "set %ch Motor to %speed",
+  "MxMotor.init|block": "啟動馬達擴充模組",
+  "MxMotor.readVbat|block": "讀取擴充模組電池電壓",
+  "MxMotor.setPWM|block": "設定%ch馬達速度到%speed",
   "MxMotor|block": "MxMotor",
   "{id:category}MxMotor": "MxMotor"
 }
