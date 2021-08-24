@@ -11,7 +11,7 @@ enum MotorChannel
 //% weight=4 color=#3BB2E2 icon="\uf085" block="MxMotor"
 namespace MxMotor{
 
-    const MxMotor_ADDR = 0x25
+    const MxMotor_ADDR = 0x24
 
     enum MotorReg
     {
